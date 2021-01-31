@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Food-Recipe/static/css/main.88ed76e6.chunk.css",
+    "main.js": "/Food-Recipe/static/js/main.3163052b.chunk.js",
+    "main.js.map": "/Food-Recipe/static/js/main.3163052b.chunk.js.map",
+    "runtime-main.js": "/Food-Recipe/static/js/runtime-main.1149b18e.js",
+    "runtime-main.js.map": "/Food-Recipe/static/js/runtime-main.1149b18e.js.map",
+    "static/js/2.a216d849.chunk.js": "/Food-Recipe/static/js/2.a216d849.chunk.js",
+    "static/js/2.a216d849.chunk.js.map": "/Food-Recipe/static/js/2.a216d849.chunk.js.map",
+    "index.html": "/Food-Recipe/index.html",
+    "precache-manifest.4d8b4295380bf37c4bc6d48a12c69f7c.js": "/Food-Recipe/precache-manifest.4d8b4295380bf37c4bc6d48a12c69f7c.js",
+    "service-worker.js": "/Food-Recipe/service-worker.js",
+    "static/css/main.88ed76e6.chunk.css.map": "/Food-Recipe/static/css/main.88ed76e6.chunk.css.map",
+    "static/js/2.a216d849.chunk.js.LICENSE.txt": "/Food-Recipe/static/js/2.a216d849.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/Food-Recipe/static/media/stwaberry.97d2ccb0.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1149b18e.js",
+    "static/js/2.a216d849.chunk.js",
+    "static/css/main.88ed76e6.chunk.css",
+    "static/js/main.3163052b.chunk.js"
+  ]
+}
